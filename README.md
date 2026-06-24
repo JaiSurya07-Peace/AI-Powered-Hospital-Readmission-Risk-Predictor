@@ -131,7 +131,7 @@ AI-Hospital-Readmission-Predictor/
 
 ## Live Application
 
-[Streamlit URL Here]
+Public URL of the app : https://ai-powered-hospital-readmission-risk-predictor-07.streamlit.app
 
 ---
 
