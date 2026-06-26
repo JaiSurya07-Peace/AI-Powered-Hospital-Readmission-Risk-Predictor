@@ -149,4 +149,4 @@ B.Tech – Artificial Intelligence and Machine Learning
 
 GitHub: https://github.com/JaiSurya07-Peace
 
-LinkedIn: https://www.linkedin.com/in/jai-surya-midde-951826331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn Post: https://www.linkedin.com/feed/update/urn:li:activity:7476164390795321344/
